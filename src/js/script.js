@@ -169,11 +169,23 @@
 //     w++;
 // }
 
-//DO WHILE
+// //DO WHILE
 
-let z = 1;
+// let z = 1;
 
-do{
-    console.log("do while é ", z)
-    z++;
-}while(z <= 100)
+// do{
+//     console.log("do while é ", z)
+//     z++;
+// }while(z <= 100)
+
+// //Funções
+
+// function saudacao(nome){
+//     // console.log("Seja vem vindo", nome);
+//     console.log(`Seja bem vindo ${nome}!`);
+// }saudacao("Fiap");
+
+// function semaforo(){
+//     let sinal = "amarelo";
+//      console.log(`O semáforo está ${sinal}`);
+// }semaforo();
